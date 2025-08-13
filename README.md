@@ -66,7 +66,7 @@ Android App <----> Java Web Service (Spring Boot) <----> MongoDB
 
 ### Installation
 
-1. Open the `android-app` folder in Android Studio.
+1. Open the `app` folder in Android Studio.
 2. Update the backend API URL in the app's configuration if needed.
 3. Build and run the app on your device or emulator.
 

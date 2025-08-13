@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project4Task2</string>
+    <string name="welcome">Welcome to Fixture Fetcher!</string>
+    <string name="default_team">Enter a Team</string>
+    <string name="default_league">Enter a League</string>
+    <string name="search_button">Search fixtures</string>
+    <string name="date_start">From</string>
+    <string name="date_end">To</string>
+    <string name="default_start_date">JAN 01 2025</string>
+    <string name="back">Back</string>
+</resources>

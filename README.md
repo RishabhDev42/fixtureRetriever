@@ -8,7 +8,6 @@ fixtureRetriever is a system for logging and analyzing user activity, consisting
 - [Architecture](#architecture)
 - [Backend Setup](#backend-setup)
 - [Android App Setup](#android-app-setup)
-- [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -81,4 +80,3 @@ Android App <----> Java Web Service (Spring Boot) <----> MongoDB
 ## License
 
 This project is licensed under the MIT License.
-```
